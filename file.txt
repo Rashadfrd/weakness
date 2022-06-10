@@ -1,0 +1,4 @@
+1.Array, string, char methods - Bəzi methodlarda bəzən çaşqınlıqlar yaşayıram.
+2.Try catch - Exception classlar hazırlayarkən potensial exceptionları tapmaqda vaxt itkisi yaşadığımı analiz etmişəm.
+
+Note: Bu 6-bazardan sonra zəif və ya tərəddüd içərisində olduğum hissənin qalmaması üçün maximum çalışacağam. Bəzi səbəblərdən son vaxtlar mental yorğunluq və fokus problemi də yaşayıram amma bilirəm sizə heşbir dəxli yoxdu:D. Əlimnən gələni edəcəyəm
